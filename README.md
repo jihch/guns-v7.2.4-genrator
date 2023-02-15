@@ -12,4 +12,4 @@ XxxXxxRequest.java
 XxxXxxService.java  
 XxxXxxServiceImpl.java  
 XxxXxxViewController.java  
-官方提供的自动生成工具得花钱，自己写一个
+官方提供的代码生成工具得花钱，自己写一个
